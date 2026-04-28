@@ -68,4 +68,4 @@ Projects focused on text understanding and classification.
 
 * 🔗 **LinkedIn:** [Suphawit MeeSak](https://www.linkedin.com/in/suphawit-meesak/)
 * 📧 **Email:** Suphawit11@icloud.com
-* 🤗 **Hugging Face:** [palmyz000](https://huggingface.co/palmyz000)
+* 🤗 **Hugging Face:** [palmyz0](https://huggingface.co/palmyz0)
